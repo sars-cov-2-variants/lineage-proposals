@@ -5,7 +5,7 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
     existing_lines=q.readlines()
     q.close()
     existing_names={}
-    for id in range(1,len(existing_lines)):
+    for id in range(len(existing_lines)):
         line=existing_lines[id]
         linsp=line.split()
         #print(linsp)
