@@ -12,12 +12,14 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
         if len(linsp)>1:
             existing_names[linsp[0]]=1
         existing_lines[id]=line.replace(' ','\t')
-        existing_lines[id]=line.replace('\t\t','\t')
+        existing_lines[id]=existing_lines[id].replace('\t\t','\t')
         num=0
         for ch in existing_lines[id]:
             if ch=='\t':
                 num+=1
-       
+        while num>3:
+            existing_lines[id]=existing_lines[id].replace('\t\t','\t')
+            num-=1
         while num<3:
             existing_lines[id]=existing_lines[id]+'\t'
             num+=1
