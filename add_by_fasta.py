@@ -5,11 +5,14 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
     existing_lines=q.readlines()
     q.close()
     existing_names={}
-    for line in existing_lines[1:]:
+    for id in range(1,len(existing_lines)):
+        line=existing_lines[id]
         linsp=line.split()
         #print(linsp)
         if len(linsp)>1:
             existing_names[linsp[0]]=1
+        existing_lines[id]=line.replace(' ','\t')
+
     fasta_file=open("C:/users/xz/Downloads/"+fasta_name+'.fasta','r')
     flines=fasta_file.readlines()
     issue_name='#'+str(issue_name)
@@ -20,9 +23,11 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
             name=name.replace('>','').replace('hCoV-19/','')
             lineapp=name+' '+issue_name
             if branch is not None:
-                lineapp=lineapp+' '+branch
+                lineapp=lineapp+'\t'+branch
             if add_info is not None:
-                lineapp=lineapp+' '+add_info
+                if branch is None:
+                    lineapp=lineapp+'\t'
+                lineapp=lineapp+'\t'+add_info
             if not(name in existing_names):
                 existing_names[name]=1
                 existing_lines.append(lineapp)
