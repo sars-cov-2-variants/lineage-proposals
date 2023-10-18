@@ -12,6 +12,11 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
         if len(linsp)>1:
             existing_names[linsp[0]]=1
         existing_lines[id]=line.replace(' ','\t')
+        if len(linsp)<4:
+            num=len(linsp)
+            while num<4:
+                existing_lines[id]=existing_lines[id]+'\t'
+                num+=1
 
     fasta_file=open("C:/users/xz/Downloads/"+fasta_name+'.fasta','r')
     flines=fasta_file.readlines()
@@ -24,10 +29,12 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
             lineapp=name+' '+issue_name
             if branch is not None:
                 lineapp=lineapp+'\t'+branch
-            if add_info is not None:
-                if branch is None:
-                    lineapp=lineapp+'\t'
+            else:
+                lineapp=lineapp+'\t'
+            if add_info is not None:     
                 lineapp=lineapp+'\t'+add_info
+            else:
+                lineapp=lineapp+'\t'
             if not(name in existing_names):
                 existing_names[name]=1
                 existing_lines.append(lineapp)
