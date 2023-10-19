@@ -34,7 +34,7 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
             name=name.replace('>','').replace('hCoV-19/','')
             lineapp=name+'\t'+issue_name
             if branch is not None:
-                lineapp=lineapp+'\t'+branch
+                lineapp=lineapp+'\t'+str(branch)
             else:
                 lineapp=lineapp+'\t'
             if add_info is not None:     
