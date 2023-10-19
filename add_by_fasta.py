@@ -41,6 +41,7 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
                 lineapp=lineapp+'\t'+add_info
             else:
                 lineapp=lineapp+'\t'
+            lineapp=lineapp+'\t'+"https://github.com/sars-cov-2-variants/lineage-proposals/issues/"+issue_name[1:]
             if not(name in existing_names):
                 existing_names[name]=1
                 existing_lines.append(lineapp)
