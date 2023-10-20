@@ -5,24 +5,35 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
     existing_lines=q.readlines()
     q.close()
     existing_names={}
-    for id in range(len(existing_lines)):
+    for id in range(1,len(existing_lines)):
         line=existing_lines[id]
         linsp=line.split()
         #print(linsp)
         if len(linsp)>1:
             existing_names[linsp[0]]=1
-        existing_lines[id]=line.replace(' ','\t')
-        existing_lines[id]=existing_lines[id].replace('\t\t','\t')
-        num=0
-        for ch in existing_lines[id]:
-            if ch=='\t':
-                num+=1
-        while num>3:
-            existing_lines[id]=existing_lines[id].replace('\t\t','\t')
-            num-=1
-        while num<3:
-            existing_lines[id]=existing_lines[id]+'\t'
-            num+=1
+        name=""
+        url=""
+        branch=""
+        issue=""
+        add_info=""
+
+        for item in linsp:
+            isb=True
+            if "EPI" in item:
+                isb=False
+                name=item
+            if '#' in item:
+                isb=False
+                issue=item
+            if 'usher' in item:
+                isb=False
+                add_info=item
+            if 'http' in item:
+                isb=False
+                url=item
+            if branch=="" and isb:
+                branch=item
+        existing_lines[id]=name+'\t'+issue+'\t'+branch+'\t'+add_info+'\t'+url
 
     fasta_file=open("C:/users/xz/Downloads/"+fasta_name+'.fasta','r')
     flines=fasta_file.readlines()
