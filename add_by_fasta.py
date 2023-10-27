@@ -1,6 +1,6 @@
 
 
-def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
+def add_by_fasta(fasta_name,issue_name,branch_giv=None,add_info_giv=None):
     q=open("recombinants.tsv",'r')
     existing_lines=q.readlines()
     q.close()
@@ -44,12 +44,12 @@ def add_by_fasta(fasta_name,issue_name,branch=None,add_info=None):
             name=linsp[0]+'|'+linsp[1]
             name=name.replace('>','').replace('hCoV-19/','')
             lineapp=name+'\t'+issue_name
-            if branch is not None:
-                lineapp=lineapp+'\t'+str(branch)
+            if branch_giv is not None:
+                lineapp=lineapp+'\t'+str(branch_giv)
             else:
                 lineapp=lineapp+'\t'
-            if add_info is not None:     
-                lineapp=lineapp+'\t'+add_info
+            if add_info_giv is not None:     
+                lineapp=lineapp+'\t'+add_info_giv
             else:
                 lineapp=lineapp+'\t'
             lineapp=lineapp+'\t'+"https://github.com/sars-cov-2-variants/lineage-proposals/issues/"+issue_name[1:]
@@ -72,5 +72,5 @@ parser.add_argument('--add_info', type=str,default=None)
 
 args = parser.parse_args()
 
-w=add_by_fasta(args.fasta,args.issue,args.branch,args.add_info)
+w=add_by_fasta(args.fasta,args.issue,branch_giv=args.branch,add_info_giv=args.add_info)
 
