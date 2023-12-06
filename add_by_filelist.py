@@ -8,7 +8,7 @@ def add_by_file(file_name,issue_name):
         linsp=line.split()
         #print(linsp)
         if len(linsp)>1:
-            nn=linsp[0]
+            nn=linsp[0].strip()
             nnp=nn.split("EPI_ISL_")[1]
             existing_names["EPI_ISL_"+nnp]=1
         name=""
@@ -39,8 +39,10 @@ def add_by_file(file_name,issue_name):
     flines=f_file.readlines()
     issue_name='#'+str(issue_name)
     for line in flines:
+        if len(line)<5:
+            continue
+        linsp=line.strip().split(' ')
         
-        linsp=line.split(' ')
         if len(linsp)==1:
             name="EPI_ISL_"+linsp[0]
         else:
