@@ -1,4 +1,4 @@
-def add_by_file(file_name,issue_name):
+def add_by_file(file_name,hint_name):
     q=open("recombinants.tsv",'r')
     existing_lines=q.readlines()
     q.close()
@@ -37,35 +37,28 @@ def add_by_file(file_name,issue_name):
 
     f_file=open("C:/users/xz/Downloads/"+file_name,'r')
     flines=f_file.readlines()
-    if issue_name[0]>='0' and issue_name[0]<='9':
-        issue_name='#'+issue_name
+    
     for line in flines:
         if len(line)<5:
             continue
-        linsp=line.strip().split(' ')
+        linsp=line.strip().split(',')
         
-        if len(linsp)==1:
-            name="EPI_ISL_"+linsp[0]
-        else:
-            for w in linsp:
-                if "EPI_ISL" in w:
-                    name=w
-
-        if not(name in existing_names):
-            lineapp=name+'\t'+issue_name
+        for item in linsp:
+            name=item.strip()
+            if len(name)>5:
+                if not(name in existing_names):
+                    lineapp=name+'\t'
+                        
+                    lineapp=lineapp+'\t'
                 
-            lineapp=lineapp+'\t'
-        
-        
-            lineapp=lineapp+'\t'
-            if '#' in issue_name:
-                lineapp=lineapp+'\t'+"https://github.com/sars-cov-2-variants/lineage-proposals/issues/"+issue_name[1:]
-            else:
-                lineapp=lineapp+'\t'
-            print(name,name in existing_names)
-            if not(name in existing_names):
-                existing_names[name]=1
-                existing_lines.append(lineapp)
+                
+                    lineapp=lineapp+'\t'+hint_name
+                
+                    lineapp=lineapp+'\t'
+                    print(name,name in existing_names)
+                    if not(name in existing_names):
+                        existing_names[name]=1
+                        existing_lines.append(lineapp)
 
     f=open("recombinants.tsv",'w')
     for line in existing_lines:
@@ -76,9 +69,9 @@ def add_by_file(file_name,issue_name):
 import argparse
 parser = argparse.ArgumentParser(description='Demo of argparse')
 parser.add_argument('--file', type=str)
-parser.add_argument('--issue', type=str)
+parser.add_argument('--hint', type=str)
 
 args = parser.parse_args()
 
-w=add_by_file(args.file,args.issue)
+w=add_by_file(args.file,args.hint)
 
