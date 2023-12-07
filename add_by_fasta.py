@@ -60,7 +60,13 @@ def add_by_fasta(fasta_name,issue_name,branch_giv=None,add_info_giv=None):
 
     f=open("recombinants.tsv",'w')
     for line in existing_lines:
-        print(line.replace('\n',''),file=f)
+        to_print=True
+        if line[0]=='E':
+            for ll in existing_lines:
+                if '|'+line.strip() in ll:
+                    to_print=False
+        if to_print:
+            print(line.replace('\n',''),file=f)
     f.close()
     return 0
 
