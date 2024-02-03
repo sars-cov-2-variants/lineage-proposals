@@ -48,11 +48,16 @@ def add_by_fasta(fasta_name,issue_name,branch_giv=None,add_info_giv=None):
                 lineapp=lineapp+'\t'+str(branch_giv)
             else:
                 lineapp=lineapp+'\t'
-            if add_info_giv is not None:     
-                lineapp=lineapp+'\t'+add_info_giv
+            rep="https://github.com/sars-cov-2-variants/lineage-proposals/issues/"
+            if add_info_giv=='main':
+
+                lineapp=lineapp+'\t'
+                rep="https://github.com/cov-lineages/pango-designation/issues/"
             else:
                 lineapp=lineapp+'\t'
-            lineapp=lineapp+'\t'+"https://github.com/sars-cov-2-variants/lineage-proposals/issues/"+issue_name[1:]
+            
+            lineapp=lineapp+'\t'+rep+issue_name[1:]
+            
             print(name,name in existing_names)
             if not(name in existing_names):
                 existing_names[name]=1
