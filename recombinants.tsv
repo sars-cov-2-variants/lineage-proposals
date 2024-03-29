@@ -1,25 +1,4 @@
 strain	issue_num	branch	additional_info	url
-France/GES-IPP16300/2023|EPI_ISL_18076084|2023-07-10	#984	1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/984
-France/PAC-HCL723000936001/2023|EPI_ISL_18228989|2023-08-07	#984	2		https://github.com/sars-cov-2-variants/lineage-proposals/issues/984
-Belgium/UGent-1524/2023|EPI_ISL_18403134|2023-10-01	#984	3		https://github.com/sars-cov-2-variants/lineage-proposals/issues/984
-Denmark/DCGC-661082/2023|EPI_ISL_18377615|2023-09-25	#984	3		https://github.com/sars-cov-2-variants/lineage-proposals/issues/984
-Belgium/AZDelta-2339-05890/2023|EPI_ISL_18377381|2023-09-25	#947			https://github.com/sars-cov-2-variants/lineage-proposals/issues/947
-Spain/CT-HUVH-M26038/2023|EPI_ISL_18332325|2023-09-20	#947			https://github.com/sars-cov-2-variants/lineage-proposals/issues/947
-Belgium/AZDelta-2340-02136/2023|EPI_ISL_18377392|2023-10-02	#947			https://github.com/sars-cov-2-variants/lineage-proposals/issues/947
-Belgium/AZDelta-2340-02185/2023|EPI_ISL_18377400|2023-10-02	#947			https://github.com/sars-cov-2-variants/lineage-proposals/issues/947
-Canada/ON-PHL-23-32916/2023|EPI_ISL_18344833	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-England/CLIMB-CM7YGHTK/2023|EPI_ISL_18362345	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-England/CLIMB-CM7YE56H/2023|EPI_ISL_18373437	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-England/CLIMB-CM7YMJCS/2023|EPI_ISL_18373446	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-Spain/AN-PMC-37522/2023|EPI_ISL_18391371	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-Spain/AN-PMC-37524/2023|EPI_ISL_18391372	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-Spain/AN-PMC-37525/2023|EPI_ISL_18391373	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-Spain/AN-PMC-37526/2023|EPI_ISL_18391374	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-Canada/ON-PHL-23-34825/2023|EPI_ISL_18395439	#975			https://github.com/sars-cov-2-variants/lineage-proposals/issues/975
-Belgium/UMONS-L871255601/2023|EPI_ISL_18393248	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-35157/2023|EPI_ISL_18395603	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-35160/2023|EPI_ISL_18395605	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-35161/2023|EPI_ISL_18395606	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
 Qinghai/QHCDC-QHS4Y-318/2023|EPI_ISL_18213367	#970			https://github.com/sars-cov-2-variants/lineage-proposals/issues/970
 Qinghai/QHCDC-ETYY-339/2023|EPI_ISL_18268234	#970			https://github.com/sars-cov-2-variants/lineage-proposals/issues/970
 Qinghai/QHCDC-HSZ-399/2023|EPI_ISL_18268265	#970			https://github.com/sars-cov-2-variants/lineage-proposals/issues/970
@@ -50,107 +29,6 @@ France/PDL-IPP22613/2023|EPI_ISL_18388867	#950			https://github.com/sars-cov-2-v
 France/PDL-IPP22614/2023|EPI_ISL_18388868	#950			https://github.com/sars-cov-2-variants/lineage-proposals/issues/950
 France/PDL-IPP22615/2023|EPI_ISL_18388869	#950			https://github.com/sars-cov-2-variants/lineage-proposals/issues/950
 France/PDL-IPP22616/2023|EPI_ISL_18388870	#950			https://github.com/sars-cov-2-variants/lineage-proposals/issues/950
-Austria/AGES-1140796/2023|EPI_ISL_18078139	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YJGHR/2023|EPI_ISL_18106623	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YE3CR/2023|EPI_ISL_18142516	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YMXOJ/2023|EPI_ISL_18216227	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YGSGJ/2023|EPI_ISL_18237686	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7Y8T4N/2023|EPI_ISL_18237688	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YM3KW/2023|EPI_ISL_18237691	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YFYHW/2023|EPI_ISL_18248591	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YF4HY/2023|EPI_ISL_18274194	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YEWDC/2023|EPI_ISL_18274253	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YKDTE/2023|EPI_ISL_18301629	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YJGUY/2023|EPI_ISL_18302527	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YEE6K/2023|EPI_ISL_18302580	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YMG5E/2023|EPI_ISL_18302600	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7Y8T3H/2023|EPI_ISL_18302616	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YEX5H/2023|EPI_ISL_18302673	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YGWN4/2023|EPI_ISL_18362407	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YGA1X/2023|EPI_ISL_18362427	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-England/CLIMB-CM7YJXW9/2023|EPI_ISL_18366734	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Wales/CLIMB-CM7YG3IN/2023|EPI_ISL_18366832	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Canada/NL-PHML-653659/2023|EPI_ISL_18386498	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Luxembourg/LNS2297630/2023|EPI_ISL_18391662	#803			https://github.com/sars-cov-2-variants/lineage-proposals/issues/803
-Australia/SA590312/2023|EPI_ISL_18225485	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA592995/2023|EPI_ISL_18225503	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA594002/2023|EPI_ISL_18225518	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA596385/2023|EPI_ISL_18246744	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA596399/2023|EPI_ISL_18246752	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA596401/2023|EPI_ISL_18246753	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA599865/2023|EPI_ISL_18246784	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA602378/2023|EPI_ISL_18279959	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA603987/2023|EPI_ISL_18279970	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA603997/2023|EPI_ISL_18346777	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA606338/2023|EPI_ISL_18346781	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-Australia/SA618159/2023|EPI_ISL_18346827	#797			https://github.com/sars-cov-2-variants/lineage-proposals/issues/797
-England/CLIMB-CM7YMJOG/2023|EPI_ISL_18227047	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YFWZU/2023|EPI_ISL_18227118	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YK4P7/2023|EPI_ISL_18227645	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7Y8ISD/2023|EPI_ISL_18237603	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-Spain/PV-HUB-56047238/2023|EPI_ISL_18241651	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YFBSM/2023|EPI_ISL_18248501	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YEEM6/2023|EPI_ISL_18281407	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-USA/CA-LACPHL-AY02101/2023|EPI_ISL_18284257	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YRWT1/2023|EPI_ISL_18294992	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-USA/CA-Stanford-161_S22/2023|EPI_ISL_18308684	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YGGSX/2023|EPI_ISL_18355942	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YGW78/2023|EPI_ISL_18355984	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/WSI-331131EC/2023|EPI_ISL_18362156	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7YJP14/2023|EPI_ISL_18366634	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-England/CLIMB-CM7Y8CWS/2023|EPI_ISL_18392583	#777			https://github.com/sars-cov-2-variants/lineage-proposals/issues/777
-USA/NY-CDC-QDX83857854/2023|EPI_ISL_18162715	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Denmark/DCGC-658959/2023|EPI_ISL_18210531	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/TX-UHS-UTHSA8419-P0/2023|EPI_ISL_18253968	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Scotland/CLIMB-CM7YKM9Z/2023|EPI_ISL_18263085	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Scotland/CLIMB-CM7YEPGJ/2023|EPI_ISL_18263121	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Israel/ICH-741198972/2023|EPI_ISL_18271400	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Luxembourg/LNS4125576/2023|EPI_ISL_18286537	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/HI-H2324473/2023|EPI_ISL_18299540	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/NY-URMC-N7S1J742-1/2023|EPI_ISL_18303908	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/IN-CDC-QDX84838549/2023|EPI_ISL_18307979	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Israel/SMC-7115098/2023|EPI_ISL_18313679	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-France/NAQ-HCL723001220201/2023|EPI_ISL_18327168	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Sweden/D-6521458276/2023|EPI_ISL_18353436	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-France/NAQ-HCL723001054601/2023|EPI_ISL_18357156	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/NY-URMC-N7S1J874-1/2023|EPI_ISL_18359789	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-England/CLIMB-CM7YG4RZ/2023|EPI_ISL_18366527	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/NY-URMC-N7S1K084-1/2023|EPI_ISL_18389365	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/NY-URMC-N7S1K093-1/2023|EPI_ISL_18389374	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-USA/NY-CDC-QDX85991584/2023|EPI_ISL_18404242	#758			https://github.com/sars-cov-2-variants/lineage-proposals/issues/758
-Hubei/HCDC-SY2459/2023|EPI_ISL_18105530	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-Japan/PG-555753/2023|EPI_ISL_18106306	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-USA/CA-HLX-STM-CJYM7NQPE/2023|EPI_ISL_18144757	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-Canada/ON-PHL-23-30373/2023|EPI_ISL_18277616	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-Anhui/HCDC-136/2023|EPI_ISL_18289733	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-New_Zealand/23ZA4583/2023|EPI_ISL_18292100	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-New_Zealand/23YA4892/2023|EPI_ISL_18292182	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-Israel/SMC-7115254/2023|EPI_ISL_18330663	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-USA/NY-CDC-LC1062205/2023|EPI_ISL_18339983	#745			https://github.com/sars-cov-2-variants/lineage-proposals/issues/745
-Israel/ICH-741197874/2023|EPI_ISL_17803706	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741197813/2023|EPI_ISL_17803715	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH_741198278/2023|EPI_ISL_18012543	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741198351/2023|EPI_ISL_18050870	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7114413/2023|EPI_ISL_18062641	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7114414/2023|EPI_ISL_18062642	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741198526/2023|EPI_ISL_18215072	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741198637/2023|EPI_ISL_18215329	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741198625/2023|EPI_ISL_18215351	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741198640/2023|EPI_ISL_18215376	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741198671/2023|EPI_ISL_18215539	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Italy/VEN-ULSS8-1309466_VI/2023|EPI_ISL_18219156	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741198911/2023|EPI_ISL_18255381	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741199119/2023|EPI_ISL_18300240	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7114979/2023|EPI_ISL_18313591	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7114982/2023|EPI_ISL_18313594	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7115083/2023|EPI_ISL_18313668	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7115154/2023|EPI_ISL_18321670	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7115374/2023|EPI_ISL_18332564	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7115388/2023|EPI_ISL_18332576	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741199358/2023|EPI_ISL_18345646	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741199500/2023|EPI_ISL_18373975	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/SMC-7115539/2023|EPI_ISL_18386113	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
-Israel/ICH-741199603/2023|EPI_ISL_18403032	#560			https://github.com/sars-cov-2-variants/lineage-proposals/issues/560
 France/BFC-IPP17056/2023|EPI_ISL_18220192	#832			https://github.com/sars-cov-2-variants/lineage-proposals/issues/832
 France/OCC-HCL723001001501/2023|EPI_ISL_18229318	#832			https://github.com/sars-cov-2-variants/lineage-proposals/issues/832
 Sweden/D-6350690163/2023|EPI_ISL_18258541	#832			https://github.com/sars-cov-2-variants/lineage-proposals/issues/832
@@ -378,11 +256,6 @@ Australia/NSW-ICPMR-50296/2023|EPI_ISL_18461925	#994			https://github.com/sars-c
 Spain/AB-HGUA-60755821/2023|EPI_ISL_18462697	#991	6		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 England/CLIMB-CM7Y8HHP/2023|EPI_ISL_18378307	#991	9		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 France/PDL-IPP24852/2023|EPI_ISL_18463586	#991	10		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
-Belgium/UMONS-L872622101/2023|EPI_ISL_18406446	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/NL-PHML-656042/2023|EPI_ISL_18434112	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-36420/2023|EPI_ISL_18448102	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-37920/2023|EPI_ISL_18470428	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-38525/2023|EPI_ISL_18470617	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
 England/CLIMB-CM7YFWNH/2023|EPI_ISL_18420480	#920			https://github.com/sars-cov-2-variants/lineage-proposals/issues/920
 USA/NY-URMC-N8S1K556-1/2023|EPI_ISL_18442634	#920			https://github.com/sars-cov-2-variants/lineage-proposals/issues/920
 USA/MS-USAFSAM-S21520/2023|EPI_ISL_18447416	#920			https://github.com/sars-cov-2-variants/lineage-proposals/issues/920
@@ -422,14 +295,6 @@ Spain/VC-CVA_GRAL-120646/2023|EPI_ISL_18496923	#991	15		https://github.com/sars-
 England/CLIMB-CM7YE3AJ/2023|EPI_ISL_18497217	#991	16		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 France/NAQ-HCL723001397201/2023|EPI_ISL_18496780	#991	17		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 France/IDF-IPP26092/2023|EPI_ISL_18499466	#991	18		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
-Switzerland/SZ-UZH-IMV-47cfadc6/2023|EPI_ISL_18488241	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-38834/2023|EPI_ISL_18504550	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-38850/2023|EPI_ISL_18504566	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-38906/2023|EPI_ISL_18504613	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-39285/2023|EPI_ISL_18504953	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-39641/2023|EPI_ISL_18505284	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-39747/2023|EPI_ISL_18505387	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-39789/2023|EPI_ISL_18505427	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
 Japan/PG-580790/2023|EPI_ISL_18505932	#991	19		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 Spain/CL-44920/2023|EPI_ISL_18509655	#991	21		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 Australia/NSW-ICPMR-50604/2023|EPI_ISL_18513496	#991	22		https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
@@ -622,19 +487,6 @@ Sweden/D-6381377976/2023|EPI_ISL_18538194	#1140			https://github.com/sars-cov-2-
 EPI_ISL_18579629	#991			https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 EPI_ISL_18584317	#991			https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 Japan/PG-583668/2023|EPI_ISL_18580656	#1153			https://github.com/sars-cov-2-variants/lineage-proposals/issues/1153
-Canada/ON-PHL-23-41476/2023|EPI_ISL_18523201	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-41548/2023|EPI_ISL_18523242	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-41580/2023|EPI_ISL_18523265	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-40593/2023|EPI_ISL_18523757	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-41302/2023|EPI_ISL_18524130	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Italy/LOM-69518432/2023|EPI_ISL_18531516	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-42081/2023|EPI_ISL_18548874	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-42595/2023|EPI_ISL_18549172	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-42606/2023|EPI_ISL_18549183	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-42923/2023|EPI_ISL_18549487	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-43418/2023|EPI_ISL_18582658	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/ON-PHL-23-43535/2023|EPI_ISL_18582773	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Sweden/G-23-700924/2023|EPI_ISL_18588115	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
 EPI_ISL_18598530	#991			https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 EPI_ISL_18598081	#991			https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
 EPI_ISL_18596477	#991			https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
@@ -891,14 +743,6 @@ Canada/BC-BCCDC-678899/2023|EPI_ISL_18609089	#1308			https://github.com/sars-cov
 USA/NY-CDC-LC1079064/2023|EPI_ISL_18779382	#1308			https://github.com/sars-cov-2-variants/lineage-proposals/issues/1308
 Slovenia/IMI-V0-21516/2023|EPI_ISL_18783197	#1309			https://github.com/sars-cov-2-variants/lineage-proposals/issues/1309
 Slovenia/IMI-V0-21689/2023|EPI_ISL_18783210	#1309			https://github.com/sars-cov-2-variants/lineage-proposals/issues/1309
-Canada/ON-PHL-23-45059/2023|EPI_ISL_18610325	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Netherlands/UT-RIVM-133956/2023|EPI_ISL_18612615	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Netherlands/ZH-RIVM-134158/2023|EPI_ISL_18612817	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Israel/ICH-741200164/2023|EPI_ISL_18673188	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/NL-NML-688382/2023|EPI_ISL_18746454	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/NL-NML-688383/2023|EPI_ISL_18746455	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/NL-NML-686366/2023|EPI_ISL_18746457	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
-Canada/NL-NML-689641/2023|EPI_ISL_18786063	#972			https://github.com/sars-cov-2-variants/lineage-proposals/issues/972
 USA/CA-HLX-STM-M7Z68SSF3/2023|EPI_ISL_18775288	#1290			https://github.com/sars-cov-2-variants/lineage-proposals/issues/1290
 USA/CO-CDPHE-41604034/2023|EPI_ISL_18778348	#1290			https://github.com/sars-cov-2-variants/lineage-proposals/issues/1290
 EPI_ISL_18755146	#991			https://github.com/sars-cov-2-variants/lineage-proposals/issues/991
