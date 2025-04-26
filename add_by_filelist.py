@@ -35,7 +35,7 @@ def add_by_file(file_name,issue_name):
                 branch=item
         existing_lines[id]=name+'\t'+issue+'\t'+branch+'\t'+add_info+'\t'+url
 
-    f_file=open("C:/users/xz/Downloads/"+file_name,'r')
+    f_file=open(file_name,'r')
     flines=f_file.readlines()
     if issue_name[0]>='0' and issue_name[0]<='9':
         issue_name='#'+issue_name

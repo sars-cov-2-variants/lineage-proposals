@@ -35,7 +35,7 @@ def add_by_fasta(fasta_name,issue_name,branch_giv=None,add_info_giv=None):
                 branch=item
         existing_lines[id]=name+'\t'+issue+'\t'+branch+'\t'+add_info+'\t'+url
 
-    fasta_file=open("C:/users/xz/Downloads/"+fasta_name+'.fasta','r')
+    fasta_file=open("../../downloads/"+fasta_name+'.fasta','r')
     flines=fasta_file.readlines()
     issue_name='#'+str(issue_name)
     for line in flines:
