@@ -1,22 +1,4 @@
 strain	issue_num	branch	additional_info	url
-Finland/THL-00954/2024|EPI_ISL_18832806	#2489			https://github.com/cov-lineages/pango-designation/issues/2489
-Finland/THL-00972/2024|EPI_ISL_18832820	#2489			https://github.com/cov-lineages/pango-designation/issues/2489
-Finland/THL-00973/2024|EPI_ISL_18832821	#2489			https://github.com/cov-lineages/pango-designation/issues/2489
-Finland/THL-01701/2024|EPI_ISL_18873362	#2489			https://github.com/cov-lineages/pango-designation/issues/2489
-Finland/THL-01880/2024|EPI_ISL_18918914	#2489			https://github.com/cov-lineages/pango-designation/issues/2489
-Finland/THL-01913/2024|EPI_ISL_18918917	#2489			https://github.com/cov-lineages/pango-designation/issues/2489
-Germany/BY-LGL-6316808/2024|EPI_ISL_19380921	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-Australia/VIC-VIDRL-00015101/2024|EPI_ISL_19434385	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-India/OR-RMRC_B-ICMR-INSACOG-ILI-2634/2024|EPI_ISL_19434596	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-India/OR-RMRC_B-ICMR-INSACOG-ILI-2561/2024|EPI_ISL_19434887	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-USA/NY-GBW-GKPLAAAA16347/2024|EPI_ISL_19445576	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-USA/PA-CDC-LC1122248/2024|EPI_ISL_19455472	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-USA/HI-TAMC_3896/2024|EPI_ISL_19462007	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-USA/UT-UPHL-241004732157/2024|EPI_ISL_19463528	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-Singapore/R53MQ36/2024|EPI_ISL_19467787	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-Singapore/R54MQ12/2024|EPI_ISL_19467829	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-Singapore/R55MQ46/2024|EPI_ISL_19467909	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
-Singapore/R55MQ32/2024|EPI_ISL_19467940	#2791			https://github.com/cov-lineages/pango-designation/issues/2791
 USA/OH-PLMI-5HB-25728/2024|EPI_ISL_19337473	#2302			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2302
 Puerto_Rico/CVL025783/2024|EPI_ISL_19390926	#2302			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2302
 Puerto_Rico/CVL025784/2024|EPI_ISL_19390927	#2302			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2302
