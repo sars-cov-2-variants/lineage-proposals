@@ -9,8 +9,9 @@ def add_by_file(file_name,issue_name):
         #print(linsp)
         if len(linsp)>1:
             nn=linsp[0].strip()
-            nnp=nn.split("EPI_ISL_")[1]
-            existing_names["EPI_ISL_"+nnp]=1
+            if 'EPI_ISL' in nn:
+                nnp=nn.split("EPI_ISL_")[1]
+                existing_names["EPI_ISL_"+nnp]=1
         name=""
         url=""
         branch=""
