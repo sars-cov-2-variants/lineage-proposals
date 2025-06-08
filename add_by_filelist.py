@@ -32,6 +32,9 @@ def add_by_file(file_name,issue_name):
             if 'http' in item:
                 isb=False
                 url=item
+            if 'C_AA' in item:
+                isb=False
+                name=item
             if branch=="" and isb:
                 branch=item
         existing_lines[id]=name+'\t'+issue+'\t'+branch+'\t'+add_info+'\t'+url
