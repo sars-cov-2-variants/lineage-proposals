@@ -259,8 +259,8 @@ India/MH_BJCOG_7024/2025|EPI_ISL_19897028	#2607			https://github.com/sars-cov-2-
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -278,3 +278,11 @@ EPI_ISL_19913652	#2625			https://github.com/sars-cov-2-variants/lineage-proposal
 EPI_ISL_19973442	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19973443	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19993918	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_19906927	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_19908320	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+Bangladesh/icddr-b-2250513031/2025|EPI_ISL_19894981	#2662			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2662
+New_Zealand/25YA1286/2025|EPI_ISL_19906940	#2662			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2662
+USA/NJ-GBW-GKPLAAAA69757/2025|EPI_ISL_19909606	#2662			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2662
+USA/CA-GBW-GKISBBBG89432/2025|EPI_ISL_19909632	#2662			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2662
+USA/CA-GBW-GKPLAAAA66160/2025|EPI_ISL_19909633	#2662			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2662
+USA/NJ-GBW-GKISBBBH43715/2025|EPI_ISL_19909647	#2662			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2662
