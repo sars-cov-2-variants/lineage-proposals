@@ -259,8 +259,8 @@ India/MH_BJCOG_7024/2025|EPI_ISL_19897028	#2607			https://github.com/sars-cov-2-
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -306,3 +306,15 @@ India/GJ-INSACOG-GBRC-14165/2025|EPI_ISL_20046553	#2607			https://github.com/sar
 India/GJ-INSACOG-GBRC-14476/2025|EPI_ISL_20046839	#2607			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2607
 India/GJ-INSACOG-GBRC-14508/2025|EPI_ISL_20046868	#2607			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2607
 India/MP-INSACOG-GBRC-14514/2025|EPI_ISL_20046874	#2607			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2607
+Canada/BC-BCCDC-773044/2025|EPI_ISL_19895235	#2710			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2710
+Mexico/CMX_IBT_IMSS_14426/2025|EPI_ISL_19905806	#2710			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2710
+USA/CA-GBW-GKPLAAAA61932/2025|EPI_ISL_20053970	#2710			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2710
+EPI_ISL_20015623	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_19894973	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_19907350	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_20046525	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_20047831	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_20047665	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_20048976	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_20054082	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
+EPI_ISL_20054106	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
