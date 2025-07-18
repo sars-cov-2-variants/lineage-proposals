@@ -77,12 +77,15 @@ def add_by_fasta(fasta_name,issue_name,branch_giv=None,add_info_giv=None):
 
 import argparse
 parser = argparse.ArgumentParser(description='Demo of argparse')
-parser.add_argument('--fasta', type=str)
+parser.add_argument('--fasta', type=str,default='')
 parser.add_argument('--issue', type=int)
 parser.add_argument('--branch', type=int,default=None)
 parser.add_argument('--add_info', type=str,default=None)
 
 args = parser.parse_args()
 
+if args.fasta=='':
+    args.fasta=str(args.issue)
+    
 w=add_by_fasta(args.fasta,args.issue,branch_giv=args.branch,add_info_giv=args.add_info)
 

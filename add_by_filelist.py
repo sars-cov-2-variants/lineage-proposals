@@ -79,10 +79,11 @@ def add_by_file(file_name,issue_name):
 
 import argparse
 parser = argparse.ArgumentParser(description='Demo of argparse')
-parser.add_argument('--file', type=str)
+parser.add_argument('--file', type=str,default='add_recomb.txt')
 parser.add_argument('--issue', type=str)
 
 args = parser.parse_args()
 
 w=add_by_file(args.file,args.issue)
+
 
