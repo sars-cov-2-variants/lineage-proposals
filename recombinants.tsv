@@ -259,8 +259,8 @@ India/MH_BJCOG_7024/2025|EPI_ISL_19897028	#2607			https://github.com/sars-cov-2-
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -367,3 +367,8 @@ USA/CA-GBW-GKISBBBG78899/2025|EPI_ISL_20056372	#2710			https://github.com/sars-c
 Costa_Rica/INC-13962-866830/2025|EPI_ISL_20075254	#2710			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2710
 USA/NY-NYULH-23244/2025|EPI_ISL_20080262	#2710			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2710
 USA/NY-NYULH-23266/2025|EPI_ISL_20080284	#2710			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2710
+EPI_ISL_20080481	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20085136	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20086539	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20081602	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20091644	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
