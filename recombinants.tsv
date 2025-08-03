@@ -259,8 +259,8 @@ India/MH_BJCOG_7024/2025|EPI_ISL_19897028	#2607			https://github.com/sars-cov-2-
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -372,3 +372,9 @@ EPI_ISL_20085136	#2715			https://github.com/sars-cov-2-variants/lineage-proposal
 EPI_ISL_20086539	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
 EPI_ISL_20081602	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
 EPI_ISL_20091644	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20091097	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20091070	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20093171	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+EPI_ISL_20097972	#2715			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2715
+Australia/WA17187/2025|EPI_ISL_20094969	#2740			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2740
+Spain/PV-HUD-70012213/2025|EPI_ISL_20097517	#2740			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2740
