@@ -143,8 +143,8 @@ Singapore/Y25R23MSC209/2025|EPI_ISL_19889741	#2651			https://github.com/sars-cov
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -295,3 +295,11 @@ EPI_ISL_20152426	#2839			https://github.com/sars-cov-2-variants/lineage-proposal
 EPI_ISL_20152555	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
 EPI_ISL_20153050	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
 EPI_ISL_20154596	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+France/GES-RELAB-IPP05315/2025|EPI_ISL_20128572	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+Spain/PV-HUD-39410035/2025|EPI_ISL_20142602	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+Canada/ON-PHL-202506743/2025|EPI_ISL_20147001	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+France/PAC-RELAB-HCL725000106801/2025|EPI_ISL_20147394	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+Spain/AN-PMC-43232/2025|EPI_ISL_20149559	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+France/IDF-RELAB-IPP05535/2025|EPI_ISL_20151797	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+France/GES-RELAB-IPP05457/2025|EPI_ISL_20151844	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+Spain/CT-HUGTiP-F3R222/2025|EPI_ISL_20155000	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
