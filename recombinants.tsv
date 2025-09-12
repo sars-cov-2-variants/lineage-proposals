@@ -143,8 +143,8 @@ Singapore/Y25R23MSC209/2025|EPI_ISL_19889741	#2651			https://github.com/sars-cov
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -308,3 +308,27 @@ EPI_ISL_20156707	#2839			https://github.com/sars-cov-2-variants/lineage-proposal
 EPI_ISL_20158902	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
 EPI_ISL_20160535	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
 EPI_ISL_20160921	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+USA/CA-LACPHL-AY12596/2025|EPI_ISL_20092710	#2916			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2916
+USA/CA-LACPHL-AY12711/2025|EPI_ISL_20092755	#2916			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2916
+USA/CA-LACPHL-AY13000/2025|EPI_ISL_20127077	#2916			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2916
+Spain/PV-HUD-39843776/2025|EPI_ISL_20142606	#2916			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2916
+USA/NY-Wadsworth-25062923-01/2025|EPI_ISL_20142662	#2916			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2916
+Spain/PV-HUD-39437233/2025|EPI_ISL_20145070	#2916			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2916
+Spain/PV-HUD-39845205/2025|EPI_ISL_20152672	#2916			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2916
+Spain/MC-HCUVA-89211773/2025|EPI_ISL_20159733	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+Canada/ON-HRL-20251022428007-v1/2025|EPI_ISL_20160631	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+Canada/ON-HRL-20251022442872-v1/2025|EPI_ISL_20160640	#2913			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2913
+USA/NJ-GBW-GKPLAAAA62357/2025|EPI_ISL_20080288	#2760			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2760
+USA/NJ-GBW-GKISBBBG83799/2025|EPI_ISL_20080299	#2760			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2760
+USA/NJ-GBW-GKISBBBG83784/2025|EPI_ISL_20080312	#2760			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2760
+USA/OR-OSPHL10449/2025|EPI_ISL_20147871	#2760			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2760
+USA/OR-OSPHL10489/2025|EPI_ISL_20154596	#2760			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2760
+Taiwan/CDC-F96566/2025|EPI_ISL_20160330	#2651			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2651
+Brazil/AM-LACENAM-130827684/2025|EPI_ISL_20084840	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
+Brazil/AM-LACENAM-130830773/2025|EPI_ISL_20084845	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
+Brazil/AM-LACENAM-130831040/2025|EPI_ISL_20084851	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
+Brazil/AM-LACENAM-130831024/2025|EPI_ISL_20084857	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
+Brazil/AM-LACENAM-130831037/2025|EPI_ISL_20084861	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
+Brazil/AM-LACENAM-130827689/2025|EPI_ISL_20084867	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
+Brazil/AM-LACENAM-130830770/2025|EPI_ISL_20084876	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
+Brazil/AM-LACENAM-130850286/2025|EPI_ISL_20159979	#2567			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2567
