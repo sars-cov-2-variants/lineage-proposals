@@ -143,8 +143,8 @@ Singapore/Y25R23MSC209/2025|EPI_ISL_19889741	#2651			https://github.com/sars-cov
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -339,3 +339,19 @@ EPI_ISL_20169497	#2839			https://github.com/sars-cov-2-variants/lineage-proposal
 EPI_ISL_20169418	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
 EPI_ISL_20169461	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
 EPI_ISL_20175537	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+EPI_ISL_20169192	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+EPI_ISL_20175141	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+EPI_ISL_20178371	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+EPI_ISL_20167409	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+EPI_ISL_20167101	#2839			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2839
+England/CLIMB-CM7YMY3I/2025|EPI_ISL_20169158	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YKFM8/2025|EPI_ISL_20169164	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YGMIQ/2025|EPI_ISL_20169166	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YF3YC/2025|EPI_ISL_20169172	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YKCUI/2025|EPI_ISL_20169173	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YEYDZ/2025|EPI_ISL_20169175	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YJSO3/2025|EPI_ISL_20169184	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YJSE7/2025|EPI_ISL_20169194	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YE8MI/2025|EPI_ISL_20169195	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+England/CLIMB-CM7YJRWH/2025|EPI_ISL_20169206	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
+Wales/CLIMB-CM7Y8GE7/2025|EPI_ISL_20169275	#2946			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2946
