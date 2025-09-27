@@ -143,8 +143,8 @@ Singapore/Y25R23MSC209/2025|EPI_ISL_19889741	#2651			https://github.com/sars-cov
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -364,3 +364,11 @@ EPI_ISL_20185321	#2951			https://github.com/sars-cov-2-variants/lineage-proposal
 EPI_ISL_20186543	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
 EPI_ISL_20186400	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
 EPI_ISL_20183234	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+Germany/MV-RKI-I-1148501/2025|EPI_ISL_20133431	#2952			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2952
+Luxembourg/LNS7589724/2025|EPI_ISL_20139216	#2952			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2952
+USA/WA-GBW-GKISBBBH20853/2025|EPI_ISL_20178275	#2952			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2952
+USA/NY-GBW-GKISBBBH06878/2025|EPI_ISL_20186336	#2952			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2952
+France/ARA-RELAB-HCL725000053401/2025|EPI_ISL_19875055	#2958			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2958
+USA/NY-NYULH-23063/2025|EPI_ISL_20048976	#2958			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2958
+England/CLIMB-CM7YMXN4/2025|EPI_ISL_20133570	#2958			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2958
+England/CLIMB-CM7YRQJY/2025|EPI_ISL_20179877	#2958			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2958
