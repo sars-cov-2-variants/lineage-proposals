@@ -86,6 +86,8 @@ args = parser.parse_args()
 
 if args.fasta=='':
     args.fasta=str(args.issue)
+    if not(args.branch is None):
+        args.fasta=args.fasta+'b'+str(args.branch)
     
 w=add_by_fasta(args.fasta,args.issue,branch_giv=args.branch,add_info_giv=args.add_info)
 
