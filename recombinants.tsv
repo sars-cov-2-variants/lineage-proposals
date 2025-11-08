@@ -143,8 +143,8 @@ Singapore/Y25R23MSC209/2025|EPI_ISL_19889741	#2651			https://github.com/sars-cov
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -441,3 +441,12 @@ Netherlands/ZH-RIVM-146849/2025|EPI_ISL_20223307	#3065	2		https://github.com/sar
 Italy/LOM_Niguarda_80711637CHE/2025|EPI_ISL_20226813	#3065	3		https://github.com/sars-cov-2-variants/lineage-proposals/issues/3065
 Italy/LOM_Niguarda_80711636FER/2025|EPI_ISL_20226814	#3065	3		https://github.com/sars-cov-2-variants/lineage-proposals/issues/3065
 Italy/LOM_Niguarda_80710928PED/2025|EPI_ISL_20226818	#3065	3		https://github.com/sars-cov-2-variants/lineage-proposals/issues/3065
+USA/CO-CDPHE-44669518/2025|EPI_ISL_20184977	#3078			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3078
+USA/WA-GBW-GKISBBBH93256/2025|EPI_ISL_20237728	#3078			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3078
+EPI_ISL_20235916	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20237157	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20237158	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20237159	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20238184	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20233515	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20233516	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
