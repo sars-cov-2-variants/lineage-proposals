@@ -143,8 +143,8 @@ Singapore/Y25R23MSC209/2025|EPI_ISL_19889741	#2651			https://github.com/sars-cov
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -467,3 +467,9 @@ EPI_ISL_20243987	#2951			https://github.com/sars-cov-2-variants/lineage-proposal
 EPI_ISL_20242116	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
 EPI_ISL_20246598	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
 EPI_ISL_20244103	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20254250	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20254273	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+EPI_ISL_20249030	#2951			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2951
+USA/CA-LACPHL-AY13710/2025|EPI_ISL_20158902	#3125			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3125
+Canada/ON-SHL-202505951/2025|EPI_ISL_20205229	#3125			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3125
+USA/CA-Stanford-207_S23/2025|EPI_ISL_20246138	#3125			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3125
