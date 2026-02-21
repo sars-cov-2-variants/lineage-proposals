@@ -143,8 +143,8 @@ Singapore/Y25R23MSC209/2025|EPI_ISL_19889741	#2651			https://github.com/sars-cov
 EPI_ISL_19888024	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19880971	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19891923	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
-	#2655	C_AA109986.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
-	#2655	C_AA109989.1		https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109986.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
+C_AA109989.1	#2655			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2655
 EPI_ISL_19895538	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19897234	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
 EPI_ISL_19900315	#2625			https://github.com/sars-cov-2-variants/lineage-proposals/issues/2625
@@ -620,3 +620,6 @@ Canada/NB-CHUDGLD-17A-MM00035R/2026|EPI_ISL_20364066	#3316			https://github.com/
 USA/NY-URMC-211X851-1/2025|EPI_ISL_20355026	#3273			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3273
 USA/NY-URMC-221X801-1/2025|EPI_ISL_20355060	#3273			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3273
 USA/NY-URMC-231X994-1/2026|EPI_ISL_20355240	#3273			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3273
+EPI_ISL_20364714	#3179			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3179
+EPI_ISL_20365925	#3179			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3179
+EPI_ISL_20367219	#3179			https://github.com/sars-cov-2-variants/lineage-proposals/issues/3179
